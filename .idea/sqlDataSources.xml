@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="15e44a04-727d-4222-9693-f0f37c5a1602" name="VernonDLL">
+      <data-sources db="53ccb8b8-5d35-475a-a766-5722da7984bf" ddl="fd9859ff-ecaa-4236-989e-792487fd799f" />
+    </mapping>
+    <mapping uuid="e1e340c4-4079-419d-b8bc-f25bf172cf10" name="VernonDDL">
+      <data-sources db="6c6e921d-878b-4efa-916e-e39ffd39d131" ddl="bcf6f884-aa31-4eaa-bb6b-632cc9fc5955" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="bcf6f884-aa31-4eaa-bb6b-632cc9fc5955" />
+          <option name="name" value="VernonDDL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$" />
+            </array>
+          </option>
+          <option name="remarks" value="Configuration Files" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
